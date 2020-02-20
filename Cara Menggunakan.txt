@@ -1,0 +1,7 @@
+1) Silahkan di modifikasi direktori dataset training dan testing pada file DataProcessing.py dan juga Evaluation_LBP.py, Evaluation_LBPandCM.py, Evaluation_CM.py
+
+2) Silahkan di run DataProcessing.py, fitur yang dihasilkan akan dimasukkan ke file .csv yang berada di direktori yang sama dengan direktori dataset training dan testing (butuh waktu 2-3 jam) untuk proses ini selesai
+
+3) Setelah data .csv selesai dibuat, silahkan run file evaluasi sesuai fitur yang ingin anda gunakan Evaluation_LBP.py untuk fitur LBP saja, Evaluation_LBPandCM.py untuk fitur LBP dan CM saja, dan Evaluation_CM.py untuk fitur CM saja.
+
+4) Silahkan lihat hasil evaluasi di terminal Python.
